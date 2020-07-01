@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="djangorestframework_simplejwt_casng",
-    version="0.0.1",
+    version="0.0.2",
     author="Changsheng Yan",
     author_email="cs.yan@outlook.com",
     description="A JSON Web Token authentication plugin for the Django REST Framework, "
