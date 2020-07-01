@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: djangorestframework-simplejwt-casng
+Version: 0.0.1
+Summary: A JSON Web Token authentication plugin for the Django REST Framework, integrated with CAS Authentication.
+Home-page: https://github.com/ChangshengYan/djangorestframework-simplejwt-casng
+Author: Changsheng Yan
+Author-email: cs.yan@outlook.com
+License: UNKNOWN
+Description: # djangorestframework-simplejwt-casng
+        
+        A JSON Web Token authentication plugin for the [Django REST Framework](https://www.django-rest-framework.org/) integrated with [cas-ng](https://djangocas.dev/docs/latest/).
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
