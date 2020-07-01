@@ -1,4 +1,0 @@
-django>=3.0
-django-cas-ng
-djangorestframework
-djangorestframework-simplejwt
