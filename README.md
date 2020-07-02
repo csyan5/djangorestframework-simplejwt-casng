@@ -22,10 +22,10 @@ Then in `settings.py`, add the package to `INSTALLED_APPS`
 
 ```python
 INSTALLED_APPS = [
-		...
+    ...
     'rest_framework',
     'django_cas_ng',
-	  'rest_framework_simplejwt',
+    'rest_framework_simplejwt',
     'djangorestframework_simplejwt_casng',
 ]
 ```
